@@ -30,7 +30,7 @@ Mobi-e-rides is a fictional e-bike rental startup serving residents and tourists
 Shows how the Customer and Employee interact with the Mobi-e-rides rental system. The customer participates in the return, while the employee records receipt in the system.
 
 <p align="center">
-  <img src="assets/use-case-diagram.png" width="560" alt="Mobi-e-rides use case diagram">
+  <img src="assets/use-case-diagram.png" width="100%" alt="Mobi-e-rides use case diagram">
 </p>
 
 ### 2. Entity Relationship Diagram (ERD)
@@ -46,8 +46,12 @@ Defines the Customer, Bike and Rental entities, including their primary and fore
 Maps the rental journey from bike selection through payment, handover, return and availability update. It includes alternative paths for an unavailable bike and a rejected payment.
 
 <p align="center">
-  <img src="assets/rental-process-flowchart.png" width="460" alt="Mobi-e-rides rental process flowchart">
+  <img src="assets/rental-process-flowchart.png" width="100%" alt="Mobi-e-rides rental process flowchart">
 </p>
+
+## Project file
+
+[Download the full case study (PDF)](docs/mobi-e-rides-business-analysis.pdf).
 
 ## Academic context
 
