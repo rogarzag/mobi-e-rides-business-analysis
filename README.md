@@ -1,6 +1,11 @@
-# Mobi-e-rides
+# Mobi-e-rides — End-to-End Business Analysis Case Study
 
 **Business Analysis & Process Modeling**
+
+**Author:** Rodrigo Garza García  
+**GitHub:** [rogarzag](https://github.com/rogarzag)  
+**Repository:** [mobi-e-rides-business-analysis](https://github.com/rogarzag/mobi-e-rides-business-analysis)  
+**Learning context:** IBM Business Analysis
 
 ## Project overview
 
