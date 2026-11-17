@@ -38,7 +38,7 @@ Shows how the Customer and Employee interact with the Mobi-e-rides rental system
 Defines the Customer, Bike and Rental entities, including their primary and foreign keys and relationships.
 
 <p align="center">
-  <img src="assets/entity-relationship-diagram.png" width="560" alt="Mobi-e-rides entity relationship diagram">
+  <img src="assets/entity-relationship-diagram.png" width="100%" alt="Mobi-e-rides entity relationship diagram">
 </p>
 
 ### 3. Rental Process Flowchart
