@@ -4,7 +4,7 @@
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
 **Portfolio page:** [mobi e rides business analysis](https://rogarzag.github.io/projects/mobi-e-rides/)  
 **GitHub repository:** [mobi-e-rides-business-analysis](https://github.com/rogarzag/mobi-e-rides-business-analysis)  
-**Project focus:** End-to-end Business Analysis · Requirements · Stakeholder Analysis · UML · ERD · Process Modeling  
+**Project focus:** End-to-end Business Analysis · Requirements · Stakeholder Identification · UML · ERD · Process Modeling  
 **Project context:** IBM Business Analysis coursework; academic portfolio case  
 **Data / case coverage:** Proposed bicycle and e-bike rental service in Mexico City  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
