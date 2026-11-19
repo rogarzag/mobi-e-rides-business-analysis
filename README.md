@@ -1,4 +1,4 @@
-# Mobi-e-rides — End-to-End Business Analysis Case Study
+# Mobi-e-rides — Business Analysis Case Study
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
@@ -6,7 +6,7 @@
 **GitHub repository:** [mobi-e-rides-business-analysis](https://github.com/rogarzag/mobi-e-rides-business-analysis)  
 **Project focus:** End-to-end Business Analysis · Requirements · Stakeholder Identification · UML · ERD · Process Modeling  
 **Project context:** IBM Business Analysis coursework; academic portfolio case  
-**Data / case coverage:** Proposed bicycle and e-bike rental service in Mexico City  
+**Data / case covered:** Proposed bicycle and e-bike rental service in Mexico City  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -21,7 +21,7 @@ The project applies business analysis techniques to translate a simple business 
 
 - Stakeholder identification and interview questions
 - Requirements elicitation and MoSCoW prioritization
-- Requirements traceability
+- Linking requirements to the diagrams
 - Proposed workshops, observation and customer surveys
 - Use case, data and process modeling
 - Basic risks and validation considerations
