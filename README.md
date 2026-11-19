@@ -1,13 +1,17 @@
 # Mobi-e-rides — End-to-End Business Analysis Case Study
 
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [mobi e rides business analysis](https://rogarzag.github.io/projects/mobi-e-rides/)  
+**GitHub repository:** [mobi-e-rides-business-analysis](https://github.com/rogarzag/mobi-e-rides-business-analysis)  
+**Project focus:** End-to-end Business Analysis · Requirements · Stakeholder Analysis · UML · ERD · Process Modeling  
+**Project context:** IBM Business Analysis coursework; academic portfolio case  
+**Data / case coverage:** Proposed bicycle and e-bike rental service in Mexico City  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
 **Business Analysis & Process Modeling**
-
-**Author:** Rodrigo Garza García  
-**GitHub:** [rogarzag](https://github.com/rogarzag)  
-**Repository:** [mobi-e-rides-business-analysis](https://github.com/rogarzag/mobi-e-rides-business-analysis)  
-**Learning context:** IBM Business Analysis
-
-## Project overview
 
 Mobi-e-rides is a proposed peer-to-peer bicycle and e-bike rental platform in Mexico City. This portfolio case study explores how customers can check bike availability, reserve and pay for a rental, and collect and return a bike with employee assistance.
 
@@ -67,3 +71,7 @@ Maps the rental journey from bike selection and availability checking to payment
 This is an academic and portfolio exercise, not a live service or implemented system. Interviews, workshops, observation and surveys are proposed elicitation activities; they have not been conducted. The project does not claim actual user research findings or operating results.
 
 The case builds on the e-bike rental scenario used in IBM Business Analysis coursework and presents a simplified analysis with my own requirements and models.
+
+## Conclusion
+
+The case translates a proposed rental service into three priority requirements and complementary system, data, and process models. Together, the use case diagram, ERD, and rental flowchart provide a concise view of customer and employee interactions, core data, and key process alternatives. This is an academic portfolio exercise: research activities are proposed, and the service has not been implemented.
